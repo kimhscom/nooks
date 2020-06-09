@@ -1,4 +1,4 @@
-# nooks
+# Nooks
 
 Collection of sexy React Hooks ready to install with NPM
 
@@ -14,5 +14,5 @@ Collection of sexy React Hooks ready to install with NPM
 - [x] useNetwork
 - [x] useScroll
 - [x] useFullscreen
-- [ ] useNotification
+- [x] useNotification
 - [ ] useAxios
